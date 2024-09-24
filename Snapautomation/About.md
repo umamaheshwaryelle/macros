@@ -1,1 +1,1 @@
-#Macros for automating snapchat
+# Macros for automating snapchat
