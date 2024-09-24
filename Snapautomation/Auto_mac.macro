@@ -1,1 +1,273 @@
-{"macro":{"disabledTimestamp":0,"exportedActionBlocks":[],"forceEvenIfNotEnabledTimestamp":0,"isActionBlock":false,"isBeingImported":false,"isClonedInstance":false,"isExtra":false,"isFavourite":true,"lastEditedTimestamp":1727159161227,"localVariables":[],"m_GUID":-8869111521034708754,"m_actionList":[{"getByName":false,"isCategoryLocked":false,"m_GUID":-8115073071486223512,"m_ignoreConstraints":false,"m_macroName":"Unlock mac","m_useOffStatus":true,"m_userPromptTitle":"Run Macro","m_waitToComplete":true,"m_SIGUID":-5021852894516958465,"m_classType":"ForceMacroRunAction","m_comment":"this macro will unlock Screen !","m_constraintList":[],"m_isDisabled":false,"m_isOrCondition":false},{"m_applicationName":"Snapchat","m_excludeFromRecents":true,"m_packageToLaunch":"com.snapchat.android","m_startNew":false,"option":0,"m_SIGUID":-5620471971922021496,"m_classType":"LaunchActivityAction","m_constraintList":[],"m_isDisabled":false,"m_isOrCondition":false},{"m_delayInMilliSeconds":0,"m_delayInSeconds":1,"m_useAlarm":true,"unitForVariables":0,"m_SIGUID":-5088815453795983263,"m_classType":"PauseAction","m_constraintList":[],"m_isDisabled":false,"m_isOrCondition":false},{"action":0,"uiInteractionConfiguration":{"blocking":false,"checkOverlays":false,"clickOption":3,"contentDescription":"","longClick":false,"textContent":"Next","textMatchOption":1,"viewId":"com.snapchat.android:id/send_btn_layout","xyPercentages":false,"xyPoint":{"x":616,"y":1552},"type":"Click"},"m_SIGUID":-6315791484101964236,"m_classType":"UIInteractionAction","m_comment":"Send to","m_constraintList":[],"m_isDisabled":false,"m_isOrCondition":false},{"m_delayInMilliSeconds":0,"m_delayInSeconds":2,"m_useAlarm":true,"unitForVariables":0,"m_SIGUID":-6769937833685717078,"m_classType":"PauseAction","m_constraintList":[],"m_isDisabled":false,"m_isOrCondition":false},{"action":0,"uiInteractionConfiguration":{"blocking":false,"checkOverlays":false,"clickOption":2,"contentDescription":"","longClick":false,"textMatchOption":0,"xyPercentages":false,"xyPoint":{"x":82,"y":219},"type":"Click"},"m_SIGUID":-8995480818458141442,"m_classType":"UIInteractionAction","m_comment":"snap fire or ( any first shortcut )","m_constraintList":[],"m_isDisabled":false,"m_isOrCondition":false},{"m_delayInMilliSeconds":0,"m_delayInSeconds":1,"m_useAlarm":true,"unitForVariables":0,"m_SIGUID":-5527997472923450746,"m_classType":"PauseAction","m_constraintList":[],"m_isDisabled":false,"m_isOrCondition":false},{"action":0,"uiInteractionConfiguration":{"blocking":false,"checkOverlays":false,"clickOption":2,"contentDescription":"","longClick":false,"textMatchOption":0,"xyPercentages":false,"xyPoint":{"x":576,"y":302},"type":"Click"},"m_SIGUID":-5894378289468713244,"m_classType":"UIInteractionAction","m_comment":"Select all","m_constraintList":[],"m_isDisabled":false,"m_isOrCondition":false},{"m_delayInMilliSeconds":0,"m_delayInSeconds":2,"m_useAlarm":true,"unitForVariables":0,"m_SIGUID":-6330617214570130421,"m_classType":"PauseAction","m_constraintList":[],"m_isDisabled":false,"m_isOrCondition":false},{"action":0,"uiInteractionConfiguration":{"blocking":false,"checkOverlays":false,"clickOption":3,"contentDescription":"Send","longClick":false,"textMatchOption":1,"viewId":"com.snapchat.android:id/send_to_send_button","xyPercentages":false,"xyPoint":{"x":663,"y":1536},"type":"Click"},"m_SIGUID":-5958628363566600282,"m_classType":"UIInteractionAction","m_comment":"Final Send ","m_constraintList":[],"m_isDisabled":false,"m_isOrCondition":false},{"m_delayInMilliSeconds":0,"m_delayInSeconds":2,"m_useAlarm":true,"unitForVariables":0,"m_SIGUID":-8974001471511830599,"m_classType":"PauseAction","m_constraintList":[],"m_isDisabled":false,"m_isOrCondition":false},{"m_SIGUID":-7942682777308195575,"m_classType":"LaunchHomeScreenAction","m_constraintList":[],"m_isDisabled":false,"m_isOrCondition":false},{"m_customValueDelay":0,"m_timeoutDelay":15,"m_timeoutDelayString":"15 Seconds","m_SIGUID":-5541576857627499996,"m_classType":"SetScreenTimeoutAction","m_comment":"Setting to Turn off the screen in 15 Sec","m_constraintList":[],"m_isDisabled":false,"m_isOrCondition":false},{"m_addToMessageLog":false,"m_contact":{"m_id":"Hardwired_Number","m_lookupKey":"Hardwired_Number","m_name":"[Select Number]"},"m_messageContent":"Snap Automation Process \nCompleted !! 💕💥\nResult : Sent Successfully !!","m_number":"89**2*5*6*0","m_prePopulate":false,"m_simId":0,"m_SIGUID":-6469910201655328972,"m_classType":"SendSMSAction","m_comment":"Add your Number below to get A Message for u from your mobile.....","m_constraintList":[],"m_isDisabled":false,"m_isOrCondition":false}],"m_category":"Communication","m_constraintList":[{"m_locked":false,"m_SIGUID":-5870307803868478375,"m_classType":"DeviceLockedConstraint","m_constraintList":[],"m_isDisabled":false,"m_isOrCondition":false}],"m_description":"Snap Automation\n","m_descriptionOpen":false,"m_enabled":true,"m_excludeLog":false,"m_headingColor":0,"m_isOrCondition":false,"m_name":"Auto mac","m_triggerList":[{"m_daysOfWeek":[false,false,true,true,true,false,false],"m_hour":4,"m_minute":49,"m_second":0,"m_useAlarm":true,"m_SIGUID":-8962802239069034748,"m_classType":"TimerTrigger","m_comment":"will trigger at 4:49 AM on Wed, Thu, Friday","m_constraintList":[],"m_isDisabled":false,"m_isOrCondition":false}]},"macroExportVersion":1}
+{
+  "macro": {
+    "disabledTimestamp": 0,
+    "exportedActionBlocks": [],
+    "forceEvenIfNotEnabledTimestamp": 0,
+    "isActionBlock": false,
+    "isBeingImported": false,
+    "isClonedInstance": false,
+    "isExtra": false,
+    "isFavourite": true,
+    "lastEditedTimestamp": 1727159161227,
+    "localVariables": [],
+    "m_GUID": -8869111521034709000,
+    "m_actionList": [
+      {
+        "getByName": false,
+        "isCategoryLocked": false,
+        "m_GUID": -8115073071486223000,
+        "m_ignoreConstraints": false,
+        "m_macroName": "Unlock mac",
+        "m_useOffStatus": true,
+        "m_userPromptTitle": "Run Macro",
+        "m_waitToComplete": true,
+        "m_SIGUID": -5021852894516958000,
+        "m_classType": "ForceMacroRunAction",
+        "m_comment": "this macro will unlock Screen !",
+        "m_constraintList": [],
+        "m_isDisabled": false,
+        "m_isOrCondition": false
+      },
+      {
+        "m_applicationName": "Snapchat",
+        "m_excludeFromRecents": true,
+        "m_packageToLaunch": "com.snapchat.android",
+        "m_startNew": false,
+        "option": 0,
+        "m_SIGUID": -5620471971922021000,
+        "m_classType": "LaunchActivityAction",
+        "m_constraintList": [],
+        "m_isDisabled": false,
+        "m_isOrCondition": false
+      },
+      {
+        "m_delayInMilliSeconds": 0,
+        "m_delayInSeconds": 1,
+        "m_useAlarm": true,
+        "unitForVariables": 0,
+        "m_SIGUID": -5088815453795983000,
+        "m_classType": "PauseAction",
+        "m_constraintList": [],
+        "m_isDisabled": false,
+        "m_isOrCondition": false
+      },
+      {
+        "action": 0,
+        "uiInteractionConfiguration": {
+          "blocking": false,
+          "checkOverlays": false,
+          "clickOption": 3,
+          "contentDescription": "",
+          "longClick": false,
+          "textContent": "Next",
+          "textMatchOption": 1,
+          "viewId": "com.snapchat.android:id/send_btn_layout",
+          "xyPercentages": false,
+          "xyPoint": {
+            "x": 616,
+            "y": 1552
+          },
+          "type": "Click"
+        },
+        "m_SIGUID": -6315791484101964000,
+        "m_classType": "UIInteractionAction",
+        "m_comment": "Send to",
+        "m_constraintList": [],
+        "m_isDisabled": false,
+        "m_isOrCondition": false
+      },
+      {
+        "m_delayInMilliSeconds": 0,
+        "m_delayInSeconds": 2,
+        "m_useAlarm": true,
+        "unitForVariables": 0,
+        "m_SIGUID": -6769937833685717000,
+        "m_classType": "PauseAction",
+        "m_constraintList": [],
+        "m_isDisabled": false,
+        "m_isOrCondition": false
+      },
+      {
+        "action": 0,
+        "uiInteractionConfiguration": {
+          "blocking": false,
+          "checkOverlays": false,
+          "clickOption": 2,
+          "contentDescription": "",
+          "longClick": false,
+          "textMatchOption": 0,
+          "xyPercentages": false,
+          "xyPoint": {
+            "x": 82,
+            "y": 219
+          },
+          "type": "Click"
+        },
+        "m_SIGUID": -8995480818458142000,
+        "m_classType": "UIInteractionAction",
+        "m_comment": "snap fire or ( any first shortcut )",
+        "m_constraintList": [],
+        "m_isDisabled": false,
+        "m_isOrCondition": false
+      },
+      {
+        "m_delayInMilliSeconds": 0,
+        "m_delayInSeconds": 1,
+        "m_useAlarm": true,
+        "unitForVariables": 0,
+        "m_SIGUID": -5527997472923450000,
+        "m_classType": "PauseAction",
+        "m_constraintList": [],
+        "m_isDisabled": false,
+        "m_isOrCondition": false
+      },
+      {
+        "action": 0,
+        "uiInteractionConfiguration": {
+          "blocking": false,
+          "checkOverlays": false,
+          "clickOption": 2,
+          "contentDescription": "",
+          "longClick": false,
+          "textMatchOption": 0,
+          "xyPercentages": false,
+          "xyPoint": {
+            "x": 576,
+            "y": 302
+          },
+          "type": "Click"
+        },
+        "m_SIGUID": -5894378289468713000,
+        "m_classType": "UIInteractionAction",
+        "m_comment": "Select all",
+        "m_constraintList": [],
+        "m_isDisabled": false,
+        "m_isOrCondition": false
+      },
+      {
+        "m_delayInMilliSeconds": 0,
+        "m_delayInSeconds": 2,
+        "m_useAlarm": true,
+        "unitForVariables": 0,
+        "m_SIGUID": -6330617214570130000,
+        "m_classType": "PauseAction",
+        "m_constraintList": [],
+        "m_isDisabled": false,
+        "m_isOrCondition": false
+      },
+      {
+        "action": 0,
+        "uiInteractionConfiguration": {
+          "blocking": false,
+          "checkOverlays": false,
+          "clickOption": 3,
+          "contentDescription": "Send",
+          "longClick": false,
+          "textMatchOption": 1,
+          "viewId": "com.snapchat.android:id/send_to_send_button",
+          "xyPercentages": false,
+          "xyPoint": {
+            "x": 663,
+            "y": 1536
+          },
+          "type": "Click"
+        },
+        "m_SIGUID": -5958628363566600000,
+        "m_classType": "UIInteractionAction",
+        "m_comment": "Final Send ",
+        "m_constraintList": [],
+        "m_isDisabled": false,
+        "m_isOrCondition": false
+      },
+      {
+        "m_delayInMilliSeconds": 0,
+        "m_delayInSeconds": 2,
+        "m_useAlarm": true,
+        "unitForVariables": 0,
+        "m_SIGUID": -8974001471511831000,
+        "m_classType": "PauseAction",
+        "m_constraintList": [],
+        "m_isDisabled": false,
+        "m_isOrCondition": false
+      },
+      {
+        "m_SIGUID": -7942682777308196000,
+        "m_classType": "LaunchHomeScreenAction",
+        "m_constraintList": [],
+        "m_isDisabled": false,
+        "m_isOrCondition": false
+      },
+      {
+        "m_customValueDelay": 0,
+        "m_timeoutDelay": 15,
+        "m_timeoutDelayString": "15 Seconds",
+        "m_SIGUID": -5541576857627500000,
+        "m_classType": "SetScreenTimeoutAction",
+        "m_comment": "Setting to Turn off the screen in 15 Sec",
+        "m_constraintList": [],
+        "m_isDisabled": false,
+        "m_isOrCondition": false
+      },
+      {
+        "m_addToMessageLog": false,
+        "m_contact": {
+          "m_id": "Hardwired_Number",
+          "m_lookupKey": "Hardwired_Number",
+          "m_name": "[Select Number]"
+        },
+        "m_messageContent": "Snap Automation Process \nCompleted !! 💕💥\nResult : Sent Successfully !!",
+        "m_number": "89**2*5*6*0",
+        "m_prePopulate": false,
+        "m_simId": 0,
+        "m_SIGUID": -6469910201655329000,
+        "m_classType": "SendSMSAction",
+        "m_comment": "Add your Number below to get A Message for u from your mobile.....",
+        "m_constraintList": [],
+        "m_isDisabled": false,
+        "m_isOrCondition": false
+      }
+    ],
+    "m_category": "Communication",
+    "m_constraintList": [
+      {
+        "m_locked": false,
+        "m_SIGUID": -5870307803868478000,
+        "m_classType": "DeviceLockedConstraint",
+        "m_constraintList": [],
+        "m_isDisabled": false,
+        "m_isOrCondition": false
+      }
+    ],
+    "m_description": "Snap Automation\n",
+    "m_descriptionOpen": false,
+    "m_enabled": true,
+    "m_excludeLog": false,
+    "m_headingColor": 0,
+    "m_isOrCondition": false,
+    "m_name": "Auto mac",
+    "m_triggerList": [
+      {
+        "m_daysOfWeek": [
+          false,
+          false,
+          true,
+          true,
+          true,
+          false,
+          false
+        ],
+        "m_hour": 4,
+        "m_minute": 49,
+        "m_second": 0,
+        "m_useAlarm": true,
+        "m_SIGUID": -8962802239069034000,
+        "m_classType": "TimerTrigger",
+        "m_comment": "will trigger at 4:49 AM on Wed, Thu, Friday",
+        "m_constraintList": [],
+        "m_isDisabled": false,
+        "m_isOrCondition": false
+      }
+    ]
+  },
+  "macroExportVersion": 1
+}
